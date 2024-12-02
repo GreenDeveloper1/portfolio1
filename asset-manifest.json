@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio1/static/css/main.c76f662a.css",
-    "main.js": "/portfolio1/static/js/main.51386f08.js",
+    "main.js": "/portfolio1/static/js/main.e4f64e5c.js",
     "static/js/453.05d361ae.chunk.js": "/portfolio1/static/js/453.05d361ae.chunk.js",
     "static/media/hotel-room-booking-system.png": "/portfolio1/static/media/hotel-room-booking-system.ad923dfee2ebf0137bb2.png",
     "static/media/bullionbrother.png": "/portfolio1/static/media/bullionbrother.923efe5ff4b2bcb66800.png",
@@ -11,11 +11,11 @@
     "static/media/broker-bewertungen.png": "/portfolio1/static/media/broker-bewertungen.699ee48aa69bf05f5378.png",
     "index.html": "/portfolio1/index.html",
     "main.c76f662a.css.map": "/portfolio1/static/css/main.c76f662a.css.map",
-    "main.51386f08.js.map": "/portfolio1/static/js/main.51386f08.js.map",
+    "main.e4f64e5c.js.map": "/portfolio1/static/js/main.e4f64e5c.js.map",
     "453.05d361ae.chunk.js.map": "/portfolio1/static/js/453.05d361ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c76f662a.css",
-    "static/js/main.51386f08.js"
+    "static/js/main.e4f64e5c.js"
   ]
 }
